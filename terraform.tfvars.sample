@@ -1,0 +1,8 @@
+primary_location = "West Central US"
+primary_location_abbr = "wcus"
+project_group = "tst"
+project_name = "test"
+project_env = "dev"
+tags = {
+  "terraform" = true
+}
